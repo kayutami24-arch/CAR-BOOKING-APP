@@ -1,0 +1,23 @@
+car-booking-app/
+├── README.md
+├── .gitignore
+├── LICENSE
+├── docs/
+│   ├── architecture.md
+│   ├── database.md
+│   ├── api.md
+│   └── testing.md
+├── backend/
+│   ├── gateway/
+│   ├── auth/
+│   ├── user/
+│   ├── booking/
+│   ├── location/
+│   ├── pricing/
+│   ├── notification/
+│   ├── payment/
+│   └── rating/
+├── frontend/
+├── database/
+│   └── schema.sql
+└── tests/
